@@ -30,7 +30,7 @@ export function SessionFullscreenToggle() {
             state={expanded() ? "pressed" : undefined}
             onClick={() => layout.fileTree.toggle()}
             aria-label={label}
-            aria-expanded={expanded()}
+            aria-pressed={expanded()}
             aria-controls="file-tree-panel"
             icon={<IconV2 name="sidebar-right" />}
           />
@@ -41,7 +41,7 @@ export function SessionFullscreenToggle() {
             icon={expanded() ? "layout-right-full" : "layout-right"}
             onClick={() => layout.fileTree.toggle()}
             aria-label={label}
-            aria-expanded={expanded()}
+            aria-pressed={expanded()}
             aria-controls="file-tree-panel"
           />
         )}
