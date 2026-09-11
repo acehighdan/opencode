@@ -152,6 +152,7 @@ export const dict = {
   "command.context.addSelection.description": "เพิ่มบรรทัดที่เลือกจากไฟล์ปัจจุบัน",
   "command.input.focus": "โฟกัสช่องป้อนข้อมูล",
   "command.terminal.toggle": "สลับเทอร์มินัล",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "สลับแผนผังไฟล์",
   "command.review.toggle": "สลับการตรวจสอบ",
   "command.terminal.new": "เทอร์มินัลใหม่",

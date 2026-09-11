@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "Pievienot atlasītās rindas no pašreizējā faila",
   "command.input.focus": "Aktivizēt ievadi",
   "command.terminal.toggle": "Rādīt/paslēpt termināli",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Rādīt/paslēpt failu koku",
   "command.review.toggle": "Rādīt/paslēpt pārskatu",
   "command.terminal.new": "Jauns terminālis",

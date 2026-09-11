@@ -141,6 +141,7 @@ export const dict = {
   "command.context.addSelection.description": "Lägg till markerade rader från den aktuella filen",
   "command.input.focus": "Fokusera inmatningsfältet",
   "command.terminal.toggle": "Växla terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Växla filträdet",
   "command.review.toggle": "Växla granskning",
   "command.terminal.new": "Ny terminal",

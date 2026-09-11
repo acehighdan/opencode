@@ -141,6 +141,7 @@ export const dict = {
   "command.context.addSelection.description": "Προσθήκη επιλεγμένων γραμμών από το τρέχον αρχείο",
   "command.input.focus": "Εισαγωγή εστίασης",
   "command.terminal.toggle": "Εναλλαγή τερματικού",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Εναλλαγή δέντρου αρχείου",
   "command.review.toggle": "Εναλλαγή αναθεώρησης",
   "command.terminal.new": "Νέο τερματικό",

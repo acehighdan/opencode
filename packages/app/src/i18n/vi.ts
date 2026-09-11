@@ -147,6 +147,7 @@ export const dict = {
   "command.context.addSelection.description": "Thêm các dòng đã chọn từ tệp hiện tại",
   "command.input.focus": "Tập trung vào ô nhập",
   "command.terminal.toggle": "Bật/tắt terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Bật/tắt cây tệp",
   "command.review.toggle": "Bật/tắt phần xem lại",
   "command.terminal.new": "Terminal mới",

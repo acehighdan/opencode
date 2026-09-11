@@ -140,6 +140,7 @@ export const dict: Record<string, string> = {
   "command.context.addSelection.description": "වත්මන් ගොනුවෙන් තෝරාගත් රේඛා එක් කරන්න",
   "command.input.focus": "අවධානය යොමු කරන්න",
   "command.terminal.toggle": "පර්යන්තය ටොගල් කරන්න",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "ගොනු ගස ටොගල් කරන්න",
   "command.review.toggle": "සමාලෝචනය ටොගල් කරන්න",
   "command.terminal.new": "නව පර්යන්තය",

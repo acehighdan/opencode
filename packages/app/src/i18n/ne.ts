@@ -141,6 +141,7 @@ export const dict: Record<string, string> = {
   "command.context.addSelection.description": "हालको फाइलबाट चयन गरिएका रेखाहरू थप्नुहोस्",
   "command.input.focus": "फोकस इनपुट",
   "command.terminal.toggle": "टर्मिनल टगल गर्नुहोस्",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "फाइल रूख टगल गर्नुहोस्",
   "command.review.toggle": "समीक्षा टगल गर्नुहोस्",
   "command.terminal.new": "नयाँ टर्मिनल",

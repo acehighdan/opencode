@@ -148,6 +148,7 @@ export const dict = {
   "command.context.addSelection.description": "Adicionar as linhas selecionadas do arquivo atual",
   "command.input.focus": "Focar entrada",
   "command.terminal.toggle": "Alternar terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Alternar árvore de arquivos",
   "command.review.toggle": "Alternar revisão",
   "command.terminal.new": "Novo terminal",

@@ -142,6 +142,7 @@ export const dict = {
   "command.context.addSelection.description": "လက်ရှိဖိုင်မှ ရွေးချယ်ထားသော လိုင်းများကို ထည့်ပါ။",
   "command.input.focus": "အာရုံစူးစိုက်မှု ထည့်သွင်းမှု",
   "command.terminal.toggle": "Terminal ကို ပြောင်းပါ",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "ဖိုင်သစ်ပြောင်းရန်",
   "command.review.toggle": "သုံးသပ်ချက်ကို ပြောင်းရန်",
   "command.terminal.new": "Terminal အသစ်",

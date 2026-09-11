@@ -142,6 +142,7 @@ export const dict = {
   "command.context.addSelection.description": "Joriy fayldan tanlangan qatorlarni qo'shing",
   "command.input.focus": "Fokus kiritish",
   "command.terminal.toggle": "Terminalni almashtirish",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Fayl daraxtini almashtirish",
   "command.review.toggle": "Koʻrib chiqish",
   "command.terminal.new": "Yangi terminal",

@@ -48,6 +48,7 @@ export const dict = {
   "command.context.addSelection.description": "Aggiungi le righe selezionate dal file corrente",
   "command.input.focus": "Attiva il campo di inserimento",
   "command.terminal.toggle": "Mostra o nascondi il terminale",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Mostra o nascondi l'albero dei file",
   "command.review.toggle": "Mostra o nascondi la revisione",
   "command.terminal.new": "Nuovo terminale",

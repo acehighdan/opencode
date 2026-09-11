@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "Voeg geselecteerde regels uit het huidige bestand toe",
   "command.input.focus": "Invoerveld activeren",
   "command.terminal.toggle": "Terminal tonen of verbergen",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Bestandsstructuur tonen of verbergen",
   "command.review.toggle": "Beoordeling tonen of verbergen",
   "command.terminal.new": "Nieuwe terminal",

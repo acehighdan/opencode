@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "Lisa valitud read aktiivsest failist",
   "command.input.focus": "Fookuse sisend",
   "command.terminal.toggle": "Lülita terminali sisse",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Failipuu sisse- ja väljalülitamine",
   "command.review.toggle": "Lülita ülevaatus sisse",
   "command.terminal.new": "Uus terminal",

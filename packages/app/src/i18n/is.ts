@@ -144,6 +144,7 @@ export const dict = {
   "command.context.addSelection.description": "Bættu við völdum línum úr núverandi skrá",
   "command.input.focus": "Færa fókus í innslátt",
   "command.terminal.toggle": "Víxla skjáhermi",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Skiptu um skráartré",
   "command.review.toggle": "Skiptu um skoðun",
   "command.terminal.new": "Nýr skjáhermir",

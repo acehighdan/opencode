@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "የተመረጡትን መስመሮች ከአሁኑ ፋይል ያክሉ",
   "command.input.focus": "የትኩረት ግቤት",
   "command.terminal.toggle": "ተርሚናል ቀይር",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "ፋይል ዛፍን ቀይር",
   "command.review.toggle": "ግምገማውን ቀይር",
   "command.terminal.new": "አዲስ ተርሚናል",

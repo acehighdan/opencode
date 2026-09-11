@@ -16,7 +16,7 @@ export function SessionFullscreenToggle() {
   const isDesktop = createMediaQuery("(min-width: 768px)")
 
   const expanded = () => !layout.fileTree.opened()
-  const label = language.t("command.fileTree.toggle")
+  const label = language.t("command.chatFullscreen.toggle")
 
   return (
     <Show when={isDesktop()}>

@@ -146,6 +146,7 @@ export const dict = {
   "command.context.addSelection.description": "موجودہ فائل چوں منتخب کردہ لائناں شامل کرو",
   "command.input.focus": "ان پٹ تے فوکس کرو",
   "command.terminal.toggle": "ٹرمینل نوں ٹوگل کرو",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "فائل ٹری نوں ٹوگل کرو",
   "command.review.toggle": "جائزہ ٹوگل کرو",
   "command.terminal.new": "نواں ٹرمینل",

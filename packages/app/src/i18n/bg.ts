@@ -142,6 +142,7 @@ export const dict = {
   "command.context.addSelection.description": "Добавяне на избрани редове от текущия файл",
   "command.input.focus": "Въвеждане на фокус",
   "command.terminal.toggle": "Превключване на терминала",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Превключване на файловото дърво",
   "command.review.toggle": "Превключване на прегледа",
   "command.terminal.new": "Нов терминал",

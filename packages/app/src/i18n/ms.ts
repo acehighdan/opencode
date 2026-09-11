@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "Tambah baris terpilih dari fail semasa",
   "command.input.focus": "Fokus pada input",
   "command.terminal.toggle": "Togol terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Togol pokok fail",
   "command.review.toggle": "Togol semakan",
   "command.terminal.new": "Terminal baharu",

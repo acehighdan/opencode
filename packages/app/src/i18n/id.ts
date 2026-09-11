@@ -154,6 +154,7 @@ export const dict = {
   "command.context.addSelection.description": "Tambahkan baris yang dipilih dari berkas saat ini",
   "command.input.focus": "Fokuskan masukan",
   "command.terminal.toggle": "Alihkan terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Alihkan pohon berkas",
   "command.review.toggle": "Alihkan tinjauan",
   "command.terminal.new": "Terminal baru",

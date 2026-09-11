@@ -153,6 +153,7 @@ export const dict = {
   "command.context.addSelection.description": "Добавить выбранные строки из текущего файла",
   "command.input.focus": "Перейти к полю ввода",
   "command.terminal.toggle": "Переключить терминал",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Переключить дерево файлов",
   "command.review.toggle": "Переключить обзор",
   "command.terminal.new": "Новый терминал",

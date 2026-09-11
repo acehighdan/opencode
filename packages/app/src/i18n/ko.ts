@@ -43,6 +43,7 @@ export const dict = {
   "command.context.addSelection.description": "현재 파일에서 선택한 줄을 추가",
   "command.input.focus": "입력창 포커스",
   "command.terminal.toggle": "터미널 표시/숨기기",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "파일 트리 표시/숨기기",
   "command.review.toggle": "검토 표시/숨기기",
   "command.terminal.new": "새 터미널",

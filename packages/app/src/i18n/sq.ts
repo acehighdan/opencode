@@ -141,6 +141,7 @@ export const dict = {
   "command.context.addSelection.description": "Shtoni linjat e zgjedhura nga skedari aktual",
   "command.input.focus": "Fokusoni hyrjen",
   "command.terminal.toggle": "Ndrysho terminalin",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Ndrysho pemën e skedarit",
   "command.review.toggle": "Aktivizo rishikimin",
   "command.terminal.new": "Terminali i ri",

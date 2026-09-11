@@ -142,6 +142,7 @@ export const dict = {
   "command.context.addSelection.description": "Ավելացնել ընտրված տողերը ընթացիկ ֆայլից",
   "command.input.focus": "Կիզակետային մուտքագրում",
   "command.terminal.toggle": "Փոխարկել տերմինալը",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Փոխարկել ֆայլի ծառը",
   "command.review.toggle": "Փոխարկել ակնարկ",
   "command.terminal.new": "Նոր տերմինալ",

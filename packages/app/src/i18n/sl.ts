@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "Dodaj izbrane vrstice iz trenutne datoteke",
   "command.input.focus": "Vnos fokusa",
   "command.terminal.toggle": "Preklop terminala",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Preklop drevesa datotek",
   "command.review.toggle": "Preklopi pregled",
   "command.terminal.new": "Nov terminal",

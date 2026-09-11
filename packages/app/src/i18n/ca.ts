@@ -142,6 +142,7 @@ export const dict = {
   "command.context.addSelection.description": "Afegeix les línies seleccionades del fitxer actual",
   "command.input.focus": "Entrada de focus",
   "command.terminal.toggle": "Canvia el terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Commuta l'arbre de fitxers",
   "command.review.toggle": "Commuta la revisió",
   "command.terminal.new": "Nou terminal",

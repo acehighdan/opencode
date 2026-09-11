@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "ເພີ່ມສາຍທີ່ເລືອກຈາກໄຟລ໌ປັດຈຸບັນ",
   "command.input.focus": "ໂຟກັສໃສ່",
   "command.terminal.toggle": "ປິດ/ເປີດ terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "ສະຫຼັບຕົ້ນໄມ້ໄຟລ໌",
   "command.review.toggle": "ສະຫຼັບການທົບທວນຄືນ",
   "command.terminal.new": "ສະຖານີໃໝ່",

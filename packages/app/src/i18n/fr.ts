@@ -148,6 +148,7 @@ export const dict = {
   "command.context.addSelection.description": "Ajouter les lignes sélectionnées du fichier actuel",
   "command.input.focus": "Activer la zone de saisie",
   "command.terminal.toggle": "Basculer le terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Basculer l'arborescence des fichiers",
   "command.review.toggle": "Basculer la revue",
   "command.terminal.new": "Nouveau terminal",

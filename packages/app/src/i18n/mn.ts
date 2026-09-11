@@ -142,6 +142,7 @@ export const dict = {
   "command.context.addSelection.description": "Одоогийн файлаас сонгосон мөрүүдийг нэмнэ үү",
   "command.input.focus": "Фокус оруулах",
   "command.terminal.toggle": "Терминал сэлгэх",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Файлын модыг сэлгэх",
   "command.review.toggle": "Шүүмжийг асаах/унтраах",
   "command.terminal.new": "Шинэ терминал",

@@ -53,6 +53,7 @@ export const dict = {
   "command.context.addSelection.description": "Tilføj markerede linjer fra den aktuelle fil",
   "command.input.focus": "Fokuser inputfelt",
   "command.terminal.toggle": "Skift terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Skift filtræ",
   "command.review.toggle": "Skift gennemgang",
   "command.terminal.new": "Ny terminal",

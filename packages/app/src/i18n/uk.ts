@@ -154,6 +154,7 @@ export const dict = {
   "command.context.addSelection.description": "Додати вибрані рядки з поточного файлу",
   "command.input.focus": "Фокус на полі введення",
   "command.terminal.toggle": "Перемкнути термінал",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Перемкнути дерево файлів",
   "command.review.toggle": "Перемкнути огляд",
   "command.terminal.new": "Новий термінал",

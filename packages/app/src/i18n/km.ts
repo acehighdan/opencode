@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "បន្ថែមបន្ទាត់ដែលបានជ្រើសរើសពីឯកសារបច្ចុប្បន្ន",
   "command.input.focus": "ការបញ្ចូលការផ្តោតអារម្មណ៍",
   "command.terminal.toggle": "បិទ/បើកស្ថានីយ",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "បិទបើកមែកធាងឯកសារ",
   "command.review.toggle": "បិទ/បើកការពិនិត្យឡើងវិញ",
   "command.terminal.new": "ស្ថានីយថ្មី។",

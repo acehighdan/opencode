@@ -47,6 +47,7 @@ export const dict = {
   "command.context.addSelection.description": "Lisää valitut rivit nykyisestä tiedostosta",
   "command.input.focus": "Kohdista syötekenttään",
   "command.terminal.toggle": "Näytä tai piilota terminaali",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Näytä tai piilota tiedostopuu",
   "command.review.toggle": "Näytä tai piilota tarkistus",
   "command.terminal.new": "Uusi terminaali",

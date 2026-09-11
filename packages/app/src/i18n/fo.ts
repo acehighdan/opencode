@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "Legg valdar linjur til frá verandi fílu",
   "command.input.focus": "Fokus inntak",
   "command.terminal.toggle": "Skift terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Skift fílutræ",
   "command.review.toggle": "Skift ummæli",
   "command.terminal.new": "Nýggj farstøð",

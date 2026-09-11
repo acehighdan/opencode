@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "Adaugă liniile selectate din fișierul curent",
   "command.input.focus": "Focalizează pe câmpul de introducere",
   "command.terminal.toggle": "Comută terminalul",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Comută arborele de fișiere",
   "command.review.toggle": "Comută revizuirea",
   "command.terminal.new": "Terminal nou",

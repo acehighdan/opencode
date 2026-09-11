@@ -141,6 +141,7 @@ export const dict = {
   "command.context.addSelection.description": "خطوط انتخاب شده را از فایل فعلی اضافه کنید",
   "command.input.focus": "فوکوس ورودی",
   "command.terminal.toggle": "ترمینال را تغییر دهید",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "درخت فایل را تغییر دهید",
   "command.review.toggle": "بازبینی را تغییر دهید",
   "command.terminal.new": "ترمینال جدید",

@@ -144,6 +144,7 @@ export const dict = {
   "command.context.addSelection.description": "Pridėkite pasirinktas eilutes iš dabartinio failo",
   "command.input.focus": "Fokusuoti įvesties lauką",
   "command.terminal.toggle": "Perjungti terminalą",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Perjungti failų medį",
   "command.review.toggle": "Perjungti peržiūrą",
   "command.terminal.new": "Naujas terminalas",

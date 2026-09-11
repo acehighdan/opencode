@@ -152,6 +152,7 @@ export const dict = {
   "command.context.addSelection.description": "Legg til valgte linjer fra gjeldende fil",
   "command.input.focus": "Fokuser inndata",
   "command.terminal.toggle": "Veksle terminal",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Veksle filtre",
   "command.review.toggle": "Veksle gjennomgang",
   "command.terminal.new": "Ny terminal",

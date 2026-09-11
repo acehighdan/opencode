@@ -143,6 +143,7 @@ export const dict: Record<string, string> = {
   "command.context.addSelection.description": "ད་ལྟོའི་ཡིག་སྣོད་ལས་སེལ་འཐུ་འབད་ཡོད་པའི་གྲལ་ཐིག་ཚུ་ཁ་སྐོང་རྐྱབས།",
   "command.input.focus": "ཆེད་དམིགས་ཨིན་པུཊི།",
   "command.terminal.toggle": "ཊར་མི་ནཱལ་སོར་བསྒྱུར་འབད།",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "ཡིག་སྣོད་ཤིང་སོར་སྟོན་འབད།",
   "command.review.toggle": "བསྐྱར་ཞིབ་སོར་སྟོན་འབད།",
   "command.terminal.new": "ཊར་མི་ནཱལ་གསརཔ།",

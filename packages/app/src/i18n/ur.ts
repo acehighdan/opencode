@@ -148,6 +148,7 @@ export const dict = {
   "command.context.addSelection.description": "موجودہ فائل سے منتخب لائنیں شامل کریں۔",
   "command.input.focus": "ان پٹ پر توجہ دیں",
   "command.terminal.toggle": "ٹرمینل دکھائیں یا چھپائیں",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "فائل ٹری دکھائیں یا چھپائیں",
   "command.review.toggle": "جائزہ دکھائیں یا چھپائیں",
   "command.terminal.new": "نیا ٹرمینل",

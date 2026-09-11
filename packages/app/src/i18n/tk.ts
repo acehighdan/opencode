@@ -141,6 +141,7 @@ export const dict = {
   "command.context.addSelection.description": "Häzirki faýldan saýlanan setirleri goşuň",
   "command.input.focus": "Giriş fokus",
   "command.terminal.toggle": "Terminaly açyň",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Faýl agajyny çalyşyň",
   "command.review.toggle": "Gözden geçiriň",
   "command.terminal.new": "Täze terminal",

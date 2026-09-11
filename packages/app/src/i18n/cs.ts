@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "Přidat vybrané řádky z aktuálního souboru",
   "command.input.focus": "Zaměření vstupu",
   "command.terminal.toggle": "Přepínací terminál",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Přepnout strom souborů",
   "command.review.toggle": "Přepnout recenzi",
   "command.terminal.new": "Nový terminál",

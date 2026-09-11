@@ -142,6 +142,7 @@ export const dict = {
   "command.context.addSelection.description": "Cari fayldan seçilmiş sətirləri əlavə et",
   "command.input.focus": "Giriş sahəsinə fokusla",
   "command.terminal.toggle": "Terminalı aç/bağla",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Fayl ağacını aç/bağla",
   "command.review.toggle": "İcmalı aç/bağla",
   "command.terminal.new": "Yeni terminal",

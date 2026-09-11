@@ -144,6 +144,7 @@ export const dict = {
   "command.context.addSelection.description": "Kijelölt sorok hozzáadása az aktuális fájlból",
   "command.input.focus": "Beviteli mező fókuszálása",
   "command.terminal.toggle": "Kapcsolja be a terminált",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Fájlfa váltása",
   "command.review.toggle": "Áttekintés átváltása",
   "command.terminal.new": "Új terminál",

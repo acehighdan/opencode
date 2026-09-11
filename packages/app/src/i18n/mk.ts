@@ -141,6 +141,7 @@ export const dict = {
   "command.context.addSelection.description": "Додадете избрани линии од тековната датотека",
   "command.input.focus": "Фокусирајте го влезот",
   "command.terminal.toggle": "Вклучете го терминалот",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Вклучете го дрвото на датотеки",
   "command.review.toggle": "Вклучи преглед",
   "command.terminal.new": "Нов терминал",

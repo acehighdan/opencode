@@ -141,6 +141,7 @@ export const dict = {
   "command.context.addSelection.description": "Аз файли ҷорӣ сатрҳои интихобшударо илова кунед",
   "command.input.focus": "Вуруди фокус",
   "command.terminal.toggle": "Терминалро иваз кунед",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "Гузариш кардани дарахти файл",
   "command.review.toggle": "Гузариш аз барраси",
   "command.terminal.new": "Терминали нав",

@@ -140,6 +140,7 @@ export const dict = {
   "command.context.addSelection.description": "მორჩეული ხაზების დამატება მიმდინარე ფაილიდან",
   "command.input.focus": "ფოკუსის შეყვანა",
   "command.terminal.toggle": "ტერმინალის გადართვა",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "ფაილის ხის გადართვა",
   "command.review.toggle": "მიმოხილვის გადართვა",
   "command.terminal.new": "ახალი ტერმინალი",

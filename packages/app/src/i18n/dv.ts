@@ -143,6 +143,7 @@ export const dict = {
   "command.context.addSelection.description": "މިހާރު ހުރި ފައިލް އިން ހޮވާފައިވާ ލައިންތައް އިތުރުކުރުން",
   "command.input.focus": "ފޯކަސް އިންޕުޓް",
   "command.terminal.toggle": "ޓޮގްލް ޓާމިނަލް",
+  "command.chatFullscreen.toggle": "Toggle full screen chat",
   "command.fileTree.toggle": "ޓޮގްލް ފައިލް ޓްރީ",
   "command.review.toggle": "ރިވިއު ޓޮގްލް ކުރާށެވެ",
   "command.terminal.new": "އައު ޓާމިނަލް",
