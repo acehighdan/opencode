@@ -1,0 +1,41 @@
+name: Build OpenCode Desktop (Windows x64)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  desktop-win:
+    runs-on: windows-latest
+    defaults:
+      run:
+        working-directory: packages/desktop
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ./.github/actions/setup-bun
+
+      - name: Build
+        run: bun run build
+        env:
+          NODE_OPTIONS: --max-old-space-size=4096
+          OPENCODE_CHANNEL: prod
+
+      - name: Package
+        run: npx electron-builder --win --publish never --config electron-builder.config.ts
+        timeout-minutes: 60
+        env:
+          OPENCODE_CHANNEL: prod
+
+      - name: Upload installer
+        uses: actions/upload-artifact@v4
+        with:
+          name: opencode-desktop-win-x64
+          path: packages/desktop/dist/*.exe
+          if-no-files-found: error
+
+      - name: Upload unpacked
+        uses: actions/upload-artifact@v4
+        with:
+          name: opencode-desktop-win-x64-unpacked
+          path: packages/desktop/dist/win-unpacked
+          if-no-files-found: warn
